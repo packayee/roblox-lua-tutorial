@@ -6,4 +6,4 @@ And an example:
 
 "Waffle"
 
-Whenever you have text that will be used in-game, you must put it in a string.
+Whenever you have text, you must put it in a string.
