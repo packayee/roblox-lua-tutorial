@@ -1,0 +1,14 @@
+So, let's get the easiest on out of the way.
+
+Instance:
+You know those things in the explorer? Yeah. They're all instances. Workspace, ReplciatedStorage, the Camera in Workspace, yeah.
+Those are all Instances.
+
+Ok next, some complicated ones.
+
+Child:
+Do you see inside of Workspace, theres a camera? That's a child of Workspace. Place a part inside of Workspace? Boom. That is
+now a Child of Workspace. Insert a Part in a Part? Well still, now the Part is the Child of the Part you placed it in.
+
+Parent:
+Basically what something is contained in. Place a part in Workspace? Workspace is the parent of that part.
