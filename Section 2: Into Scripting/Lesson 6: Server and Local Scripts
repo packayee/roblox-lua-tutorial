@@ -1,0 +1,6 @@
+Ok, so now, we can start actually scripting. Let's talk about the types of scripts. This is extremely important because they are
+very useful. First, we have a Server Script, or Script. This is for Scripts that run on the Server. Remember, Filtering Enabled
+exists. So these are very useful at times. Next is the Local Script. This is for Scripts that only run on a client. Every single
+client. It has everything a Server Script has, but you might want to know who exactly the script is running on. That's where
+Local Player comes in. More details later on in the series about that. For this first part of scripting we will only need
+Server Scripts.
