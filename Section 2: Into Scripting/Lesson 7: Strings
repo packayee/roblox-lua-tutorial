@@ -1,0 +1,9 @@
+Strings are something in coding that is used for putting text. Like this:
+
+"…text here…"
+
+And an example:
+
+"Waffle"
+
+Whenever you have text that will be used in-game, you must put it in a string.
