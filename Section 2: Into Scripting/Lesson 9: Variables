@@ -1,0 +1,29 @@
+Variables are used to store something, like a string, number, or instance (more on that later in the series). There are 2 types
+of variables. Global variable, and local variable. Global variables can be acssesed throughout the whole script, and local var-
+iables are used for code blocks. But, global variables kinds suck. So use local variables. (lol) Let's start scripting. In the
+explorer, hover your mouse over a tab that says ServerScriptService (everything in the explorer will be explained throughout the
+series). ServerScriptService is used for running Server Scripts. Putting a Local script inside of ServerScriptService will cause
+an error. Now, go to the plus button next to ServerScriptService. Scroll down and find Script. Then insert it. Once you have a 
+script in ServerScriptService, double click on the script. This is where you will put all of your code. Delete the
+print("Hello World") at the top. Now, let's create a variable. In order to create a variable, put local:
+
+local
+
+then put the variable name:
+
+local …variable name…
+
+then do =:
+
+local …variable name… =
+
+then put what you want in the variable.
+
+local …variable name… = …variable content…
+
+Example:
+
+local Waffles = "Waffles!"
+
+Variables are useful for organizing and making code shorter. Keep in mind, never use variables for running code. If you really
+want to use global variables, just do the same process as making a local variable, but delete the local.
